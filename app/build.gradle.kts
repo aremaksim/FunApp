@@ -8,7 +8,7 @@ plugins {
 
 android {
     namespace = "com.example.funapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.funapp"
@@ -39,7 +39,7 @@ android {
     buildFeatures {
         viewBinding = true
     }
-    buildToolsVersion = "33.0.2"
+    buildToolsVersion = "34.0.0"
 }
 
 dependencies {
