@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.FunApp" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">@color/icon_color</item>
     </style>
 
-    <style name="Theme.FunApp" parent="Base.Theme.FunApp" />
+    <style name="Theme.FunApp" parent="Base.Theme.FunApp"/>
 </resources>

@@ -28,6 +28,9 @@
         android:layout_gravity="bottom|end"
         android:layout_marginEnd="@dimen/fab_margin"
         android:layout_marginBottom="16dp"
-        app:srcCompat="@android:drawable/ic_dialog_email" />
+        android:contentDescription="@string/home_button"
+        android:foreground="@drawable/app_icon"
+        android:rotation="0"
+        android:rotationX="0" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
