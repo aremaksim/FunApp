@@ -1,6 +1,3 @@
-import com.android.aaptcompiler.android.ResTableConfig
-import org.apache.tools.ant.util.JavaEnvUtils.VERSION_1_8
-
 plugins {
     id("com.android.application")
     id("org.jetbrains.kotlin.android")
